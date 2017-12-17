@@ -1,7 +1,7 @@
 {
   "name": "LinkedIn Modal Remover",
   "description": "Watch linkedin profile without login. Linkedin popup remover.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "permissions": [
     "activeTab"
   ],
@@ -15,7 +15,7 @@
   },
  "content_scripts": [
     {
-      "matches": ["https://*/*"],
+      "matches": ["https://*.linkedin.com/*"],
       "js": ["/assets/js/jQuery.js","content_script.js"]
     }
   ],
