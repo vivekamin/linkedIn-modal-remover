@@ -1,4 +1,6 @@
 # LinkedIn-Modal-Remover
+## Chrome Store Link
+You can add chrome extension from [here](https://chrome.google.com/webstore/detail/lipbembkfnpaokgimakpbmdloeeehoef/publish-accepted)
 
 ## To use it locally. 
 Download it as a zip file.
